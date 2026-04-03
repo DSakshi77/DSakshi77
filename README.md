@@ -8,19 +8,19 @@ Tech Stack
 
 Data Analysis & Visualization
 
-Power BI (Dashboards, DAX, Data Modeling), Excel (Pivot Tables, Power Query, Advanced Formulas)
+-Power BI (Dashboards, DAX, Data Modeling), Excel (Pivot Tables, Power Query, Advanced Formulas)
 
 Programming & Data Processing
 
-Python (Pandas, NumPy, Data Cleaning, EDA, Automation)
+-Python (Pandas, NumPy, Data Cleaning, EDA, Automation)
 
 Database & Querying
 
-SQL (Joins, Aggregations, Window Functions, Data Extraction)
+-SQL (Joins, Aggregations, Window Functions, Data Extraction)
 
 Data Handling
 
-Excel(Structured & Unstructured Data, Data Cleaning, Transformation, and Reporting)
+-Excel(Structured & Unstructured Data, Data Cleaning, Transformation, and Reporting)
 
 CONNECT WITH ME
 

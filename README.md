@@ -18,6 +18,8 @@ SQL (Joins, Aggregations, Window Functions, Data Extraction)
 Data Handling
 Excel(Structured & Unstructured Data, Data Cleaning, Transformation, and Reporting)
 
-CONNECT WITH ME 
+CONNECT WITH ME
+
 Email:dighesakshi77@gmail.com
+
 linkedin:www.linkedin.com/in/sakshidighe77
